@@ -200,15 +200,3 @@ Sales are seasonal → Concentrated in few products & regions
 | 🔴 Geographic concentration | Over-reliance on Gujarat |
 | 🟡 Underutilized channels | Accessories and mid-range are underperforming |
 
-### Growth Levers
-
-```
-✅ Product diversification
-✅ Regional expansion
-✅ Sales team optimization
-✅ Year-round demand generation
-```
-
----
-
-> 💡 *This analysis is intended to guide strategic decision-making. Regular review and data refresh is recommended every quarter.*
